@@ -1,0 +1,10 @@
+.firstSvg {
+    fill: green;
+    width: 20%;
+}
+
+img {
+    display: block;
+    width: 20%;
+    margin-top: 20px;
+}
